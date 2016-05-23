@@ -33,5 +33,5 @@ sudo modprobe kvm-intel
 4、运行安卓的镜像
 ```
 qemu-system-x86_64 -enable-kvm -m 4G -cdrom xxx/android_x86_64_6.0.iso -vga std
-#notice：注意镜像的路径和全称要正确。另外分配的内存如果太小会启动不起来镜像。
+#notice：镜像的路径和全称要正确。另外分配的内存如果太小会启动不起来镜像。
 ```
