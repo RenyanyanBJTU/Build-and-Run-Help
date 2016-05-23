@@ -10,7 +10,7 @@ sudo apt-get install git
 git config --global user.email "your email address"
 ```
 ##安卓.iso镜像运行环境补充
-1、首先，确保使用的机器支持虚拟化，输入如下命令,如果出现vmx或者svm等信息说明支持，如果没有信息则无法运行安卓镜像。
+1、首先，确保使用的机器支持虚拟化，输入如下命令,如果出现vmx或者svm等信息说明支持，如果没有信息则可能无法运行安卓镜像。
 ```
 egrep '(vmx|svm)' /proc/cpuinfo
 ```
