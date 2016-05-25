@@ -1,7 +1,7 @@
 # Build-and-Run-Help
 
 ##编译环境搭建
-1、首先，按照AOSP页面 "[Establishing a Build Environment](http://source.android.com/source/initializing.html)" 来配置编译和运行环境。如果使用的系统是Ubuntu 16.04,把15.04的版本下安装需要的软件命令中  openjdk-7-jdk 改成 openjdk-8-jdk，其他不变。
+1、首先，按照AOSP页面 "[Establishing a Build Environment](http://source.android.com/source/initializing.html)" 来配置编译和运行环境。如果使用的系统是Ubuntu 16.04 LTS,把15.04的版本下安装需要的软件命令中  openjdk-7-jdk 改成 openjdk-8-jdk，其他不变。
 <br><br>
 2、使用下面的命令安装git，然后按照页面"[OTO](https://github.com/openthos/OTO)"下载源码进行编译。
 ```
