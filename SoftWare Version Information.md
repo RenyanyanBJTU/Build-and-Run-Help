@@ -1,6 +1,6 @@
 #Ubuntu 16.04 编译和运行环境
 <h4> 1、基本信息</h4>
-Linux版本：Ubuntu 16.04 LTS  <br>
+Linux版本：Ubuntu 16.04 LTS  64位<br>
 内核版本：4.4.0-21-generic <br>
 内存大小：编译需要至少4G <br>
 gcc版本：version 5.3.1 <br>
