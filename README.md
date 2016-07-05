@@ -1,7 +1,7 @@
 # Build-and-Run-Help
 
 ##编译环境搭建
-1、首先，按照AOSP页面 "[Establishing a Build Environment](https://github.com/openthos/openthos/wiki/Establishing-a-Build-Environment%28lollipop-x86%29)" 来配置编译和运行环境。
+1、首先，按照页面 "[Establishing a Build Environment](https://github.com/openthos/openthos/wiki/Establishing-a-Build-Environment%28lollipop-x86%29)" 来配置编译和运行环境。
 <br><br>
 2、使用下面的命令安装git，然后按照页面"[OTO](https://github.com/openthos/OTO)"下载源码进行编译。
 ```
