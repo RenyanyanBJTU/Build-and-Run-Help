@@ -19,7 +19,7 @@ egrep '(vmx|svm)' /proc/cpuinfo
 sudo apt-get install qemu
 sudo apt-get install qemu-kvm
 ```
-3、输入如下命令查询kvm模块是否加载成功，若出现kvm和kvm-intel等说明成功
+3、输入如下命令查询kvm模块是否加载成功，若出现kvm和kvm-intel(intel 为CPU类型，若是AMD的则显示kvm-amd）等说明成功
 ```
 lsmod | grep kvm 
 ```
